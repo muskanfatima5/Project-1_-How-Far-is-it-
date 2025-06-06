@@ -46,6 +46,5 @@ def get_route(data: RouteRequest):
 
 
 
-
 # python -m uvicorn main:app --reload
-# this is the command for running
+# this is the command for running this app
